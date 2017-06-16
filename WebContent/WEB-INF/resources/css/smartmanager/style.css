@@ -1,0 +1,88 @@
+body { 
+	padding-top: 70px;
+}
+
+.heading-button {
+	width: 150px !important;
+	margin: 3px !important;
+}
+
+.panel-heading .btn {
+	width: 110px !important;
+}
+.btn-xs {
+	width: 80px !important;
+	margin: 3px !important;
+}
+
+
+.configurations-table .btn {
+	margin: 3px !important;
+}
+
+#accordion .panel-heading {
+	background-image: none !important;
+	background-color: white !important;
+}
+
+.panel-heading a {
+	font-weight: bold !important;
+}
+
+#accordion .panel-body {
+	font-size: 85% !important;
+	padding: 5px !important;
+}
+
+.btn-default { 
+	background-image: none !important;
+    background-color: white !important;
+    color: #337ab7 !important;
+    font-weight: bold !important;
+    width: 150px;
+}
+
+.panel-heading {
+	background-image: none !important;
+    background-color: white !important;
+    color: #337ab7 !important;
+    font-weight: bold !important;
+}
+
+.dashboard-counters a {
+  color: inherit;
+  text-decoration: none;
+ }
+ 
+ .dashboard > .panel-body {
+	height: 450px;
+ }
+
+#deviceLocation > .panel-body {
+	height: 200px;
+}
+
+.page-heading {
+	margin-bottom: 20px;
+	 font-size: 180%;
+	 font-weight: bold;
+}
+
+.modal-footer .btn {
+	font-weight: bold !important;
+    width: 100px;
+}
+
+#treeDiv {
+	height: 83vh !important;
+	overflow-y: auto;
+}
+
+.dashboard .table {
+	height: 95% !important;
+	overflow-y: auto;
+}
+
+.valueField .btn-xs {
+	width: 48px !important;
+}
